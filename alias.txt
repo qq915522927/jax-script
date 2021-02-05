@@ -1,0 +1,2 @@
+myJaxDir="/Users/zhiwenw/appScripts"
+alias cn="osascript -l JavaScript $myJaxDir/closeNotification.jxa"
