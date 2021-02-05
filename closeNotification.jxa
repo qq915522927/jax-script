@@ -1,0 +1,3 @@
+var app = Application('System Events');
+app.includeStandardAdditions = true;
+app.processes.byName('Notification Center').windows.buttons[0].click();
